@@ -1,5 +1,5 @@
 
-## _Federation_ is coming next year to PC & MacOS!
+## _Federation_ is coming next year to Windows & MacOS!
 
 ![](img/banner_image.png)
 
