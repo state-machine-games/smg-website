@@ -1,4 +1,8 @@
 
+## _Federation_ is coming next year to PC & MacOS!
+
+![](img/banner_image.png)
+
 ### Wishlist on:
 
 <div style="text-align: center;">
