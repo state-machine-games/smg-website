@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme
 title: State Machine Games
 logo: /img/game_banner_vert.png
-source: ./src
+source: ./docs
 show_downloads: false
 github:
   is_project_page: false
