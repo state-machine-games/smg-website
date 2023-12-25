@@ -1,9 +1,9 @@
+# to run: bundle exec jekyll serve
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: State Machine Games
 logo: /img/game_banner_vert.png
-source: ./docs
 show_downloads: false
 github:
   is_project_page: false
